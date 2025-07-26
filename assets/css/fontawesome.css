@@ -1,0 +1,209 @@
+/*!
+ * Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+
+@font-face {
+  font-family: "Font Awesome 6 Free";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/fa-solid-900.woff2") format("woff2");
+}
+
+.fa,
+.fas {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Icon mappings */
+.fa-map-marker-alt::before {
+  content: "\f3c5";
+}
+
+.fa-phone::before {
+  content: "\f095";
+}
+
+.fa-envelope::before {
+  content: "\f0e0";
+}
+
+.fa-birthday-cake::before {
+  content: "\f1fd";
+}
+
+.fa-flag::before {
+  content: "\f024";
+}
+
+.fa-user::before {
+  content: "\f007";
+}
+
+.fa-graduation-cap::before {
+  content: "\f19d";
+}
+
+.fa-briefcase::before {
+  content: "\f0b1";
+}
+
+.fa-tools::before {
+  content: "\f7d9";
+}
+
+.fa-code::before {
+  content: "\f121";
+}
+
+.fa-database::before {
+  content: "\f1c0";
+}
+
+.fa-microchip::before {
+  content: "\f2db";
+}
+
+.fa-download::before {
+  content: "\f019";
+}
+
+.fa-print::before {
+  content: "\f02f";
+}
+
+.fa-external-link-alt::before {
+  content: "\f35d";
+}
+
+.fa-calendar::before {
+  content: "\f133";
+}
+
+.fa-globe::before {
+  content: "\f0ac";
+}
+
+.fa-home::before {
+  content: "\f015";
+}
+
+.fa-star::before {
+  content: "\f005";
+}
+
+.fa-heart::before {
+  content: "\f004";
+}
+
+.fa-check::before {
+  content: "\f00c";
+}
+
+.fa-times::before {
+  content: "\f00d";
+}
+
+.fa-plus::before {
+  content: "\f067";
+}
+
+.fa-minus::before {
+  content: "\f068";
+}
+
+.fa-edit::before {
+  content: "\f044";
+}
+
+.fa-trash::before {
+  content: "\f1f8";
+}
+
+.fa-save::before {
+  content: "\f0c7";
+}
+
+.fa-search::before {
+  content: "\f002";
+}
+
+.fa-arrow-up::before {
+  content: "\f062";
+}
+
+.fa-arrow-down::before {
+  content: "\f063";
+}
+
+.fa-arrow-left::before {
+  content: "\f060";
+}
+
+.fa-arrow-right::before {
+  content: "\f061";
+}
+
+/* Utility classes for icons */
+.fa-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
+.fa-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -0.0667em;
+}
+
+.fa-xs {
+  font-size: 0.75em;
+}
+
+.fa-sm {
+  font-size: 0.875em;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+/* Icon colors */
+.text-primary {
+  color: #2563eb;
+}
+
+.text-secondary {
+  color: #6b7280;
+}
+
+.text-success {
+  color: #059669;
+}
+
+.text-warning {
+  color: #d97706;
+}
+
+.text-danger {
+  color: #dc2626;
+}
+
+.text-info {
+  color: #0ea5e9;
+}
