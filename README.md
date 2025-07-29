@@ -134,4 +134,4 @@ Este proyecto es de código abierto. Puedes usarlo, modificarlo y distribuirlo l
 
 ---
 
-*Última actualización: Enero 2025*
+*Última actualización: Julio 2025*
